@@ -81,6 +81,24 @@ Response : 201 Created
 Tambahan tugas express-database koneksi dengan Neon
 
 1. POST
+Menambahkan data produk
+![alt text](screenshots/post.jpeg)
+
+![alt text](screenshots/post_neon.jpeg)
+
+2. PUT
+Mengupdate data produk berdasarkan id
+![alt text](screenshots/put.jpeg)
+
+![alt text](screenshots/put_neon.jpeg)
+
+3. DELETE
+Menghapus data produk berdasarkan id
+![alt text](screenshots/delete.jpeg)
+
+![alt text](screenshots/delete_neon.jpeg)
+
+
 
 
 
